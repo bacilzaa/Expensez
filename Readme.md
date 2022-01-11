@@ -19,7 +19,7 @@ set database
 
 --------------------------------------------------
 	
-	Expensez web recode your expense
+	web application for record of income and expenses
 
 --------------------------------------------------
 
