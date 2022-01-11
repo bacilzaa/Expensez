@@ -18,7 +18,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`
 - Make sure you have [MySQL](https://www.mysql.com/). We use [Xampp](https://www.apachefriends.org/index.html) for backend server, so open `xampp` and goto `phpmyadmin` to import `test.sql` to your database, then into backend folder and run `npm install` to resolve all dependencies(might take a minute)\
 Run `node app` for start node server.
  
-## Create by 
+## Members
 - pariwat
 - [worawit](https://github.com/bacilzaa)
 - kanchanit
